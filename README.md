@@ -4,6 +4,8 @@
 ![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)
 
+**Demo:** https://tareas-api-80m0.onrender.com (usuario `demo@example.com`, contraseña `password`). Está en el plan gratuito de Render: si lleva un rato sin usarse, la primera petición tarda cerca de un minuto. Los datos se reinician en cada arranque.
+
 API REST de gestión de tareas hecha con **Laravel 13**, autenticación por token con **Laravel Sanctum**, tests automáticos y CI con **GitHub Actions**.
 
 ## Qué incluye
